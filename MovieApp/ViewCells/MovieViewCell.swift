@@ -81,6 +81,7 @@ class MovieViewCell: UICollectionViewCell{
                    self.favoriteButton.tintColor = .systemYellow
                }
               print(storeVal.bool(forKey: keyFirst))
+        
     }
     
     
